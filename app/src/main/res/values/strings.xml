@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalDemo</string>
+    <string name="email_hint"><b>Email</b></string>
+    <string name="password_hint"><b>Password</b></string>
+    <string name="cpassword_hint"><b>Confirm Password</b></string>
+    <string name="username_hint"><b>Username</b></string>
+    <string name="bio_hint"><b>A short bio</b></string>
+</resources>
